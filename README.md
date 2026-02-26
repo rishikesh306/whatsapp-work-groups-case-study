@@ -140,6 +140,13 @@ If successful, Work Groups can evolve into:
 
 The complete structured case study is available in this repository as a downloadable PDF.
 
+**View / Access Case-Study Document:**
+[Click here to open Case-Study Document](https://github.com/rishikesh306/whatsapp-work-groups-case-study/blob/main/whatsapp_work_groups_case_study_pdf.pdf)
+
+⚠️ **Note:**
+GitHub preview may not display the full PDF due to rendering limitations.
+Please **download the file** to view the complete document properly.
+
 ---
 
 ##  Author
